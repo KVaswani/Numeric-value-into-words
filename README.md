@@ -1,2 +1,2 @@
-# spell-word-logic
+# Numeric value into words
 Convert Numeric Value Into Words 
